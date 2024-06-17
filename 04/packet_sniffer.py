@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 
-import scrapy as scapy
+import scapy.all as scapy
 import argparse
 from scapy.layers import http
 
